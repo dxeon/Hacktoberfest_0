@@ -16,7 +16,7 @@ a = a + 12
 print(a)
 
 # Subtraction
-a = 10
+a = 20
 a = a - 10
 print(a)
 
