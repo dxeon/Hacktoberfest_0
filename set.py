@@ -11,7 +11,7 @@ SET
 '''
 
 # Presentation
-a = { 10, 20, 'python', 20.8}
+a = { 10, 30, 'python', 20.8}
 print(a)
 print(type(a))
 print('id: ',id(a))
