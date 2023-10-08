@@ -23,7 +23,7 @@ class B(A):  # Derived class, childclass
         print('feature4 is working')
 
 
-a = A()
+a = A1()
 a.feature1()
 a.feature2()
 
