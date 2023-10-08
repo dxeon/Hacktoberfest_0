@@ -114,7 +114,7 @@ class laptop:
         print('THIS IS __init__')
 
     def Configuration(self):
-        print("i5 7th gen 1tb SSD")
+        print("i5 7th gen 2tb SSD")
 
 
 computer1 = laptop()
