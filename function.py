@@ -10,7 +10,7 @@ function_name(parameters)
 -----------------------------------------------'''
 def fun1(): #define
 	print("My Name is harshil")
-	c = 13 + 5
+	c = 13 + 6
 	print(c)
 
 fun1() #call
